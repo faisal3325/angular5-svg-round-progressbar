@@ -1,6 +1,6 @@
 {
   "name": "angular5-svg-round-progressbar",
-  "version": "1.0.1-release",
+  "version": "1.0.2-release",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
