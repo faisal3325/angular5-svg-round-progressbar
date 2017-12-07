@@ -104,6 +104,9 @@ export class YourModule {
 *  `npm install` to install development dependencies
 *  `npm run build` to generate /dist/ with .js and .d.ts files
 
+## Issues
+For any issues please report them in the [issues section](https://github.com/faisal3325/ionic2-auto-complete-ng5/issues).
+
 ## Credits
 * [crisbeto](http://crisbeto.com/) for the original component
 * [Modernizr](http://modernizr.com/) for the SVG support test
