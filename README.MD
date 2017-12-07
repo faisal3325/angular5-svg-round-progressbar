@@ -12,7 +12,7 @@ Afterwards you need to import the `RoundProgressModule` in your module:
 
 ```typescript
 import {NgModule} from '@angular/core';
-import {RoundProgressModule} from 'angular-svg-round-progressbar';
+import {RoundProgressModule} from 'angular5-svg-round-progressbar';
 
 @NgModule({
   imports: [RoundProgressModule]
@@ -71,7 +71,7 @@ from the defaults.
 
 ```typescript
 import {NgModule} from '@angular/core';
-import {RoundProgressModule, RoundProgressConfig} from 'angular-svg-round-progressbar';
+import {RoundProgressModule, RoundProgressConfig} from 'angular5-svg-round-progressbar';
 
 @NgModule({
   imports: [RoundProgressModule]
