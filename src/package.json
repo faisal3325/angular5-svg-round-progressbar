@@ -1,0 +1,28 @@
+{
+  "name": "angular5-svg-round-progressbar",
+  "version": "1.0.1-release",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faisal3325/angular5-svg-round-progressbar"
+  },
+  "author": {
+    "name": "Pathan Faisal Khan",
+    "email": "faisal3325@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faisal3325/angular5-svg-round-progressbar/issues"
+  },
+  "main": "angular5-svg-round-progressbar.umd.js",
+  "module": "angular5-svg-round-progressbar.js",
+  "jsnext:main": "angular5-svg-round-progressbar.js",
+  "typings": "angular5-svg-round-progressbar.d.ts",
+  "peerDependencies": {
+    "@angular/core": "5.0.5",
+    "rxjs": "5.5.3",
+    "zone.js": "0.8.18"
+  }
+}
