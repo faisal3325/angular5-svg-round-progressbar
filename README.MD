@@ -1,5 +1,5 @@
 # Angular5 SVG Round Progressbar
-Angular module that uses SVG to create a circular progressbar with Angular5 and AOT(Ahead of Time) compiler support. Originally made by crisbeto(https://github.com/crisbeto), crisbeto/angular-svg-round-progressbar(https://github.com/crisbeto/angular-svg-round-progressbar). Go give that repo a star for his efforts!
+Angular module that uses SVG to create a circular progressbar with Angular5 and AOT(Ahead of Time) compiler support. Originally made by [crisbeto](https://github.com/crisbeto), [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar). Go give that repo a star for his efforts!
 
 ## Installation
 First you have to install the module through npm:
