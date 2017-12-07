@@ -1,6 +1,9 @@
 # Angular5 SVG Round Progressbar
 Angular module that uses SVG to create a circular progressbar with Angular5 and AOT(Ahead of Time) compiler support. Originally made by [crisbeto](https://github.com/crisbeto), [crisbeto/angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar). Go give that repo a star for his efforts!
 
+## Note
+`responsive` and `semicircle` option is not available in this versio because of some issues. Will fix that later or you may contirubte to this repo.
+
 ## Installation
 First you have to install the module through npm:
 
@@ -29,9 +32,9 @@ export class YourModule {};
 | `color`        | The color of the `current` value on the circle.                                                           | No        | `#45ccce`         | `string`          |
 | `background`   | Color of the circle's background.                                                                         | No        | `#eaeaea`         | `string`          |
 | `stroke`       | Specifies the circle's thickness.                                                                         | No        | `15`              | `number`          |
-| `semicircle`   | Whether the progressbar should be a full circle or a semicircle.                                          | No        | `false`           | `boolean`         |
+| `semicircle`**N/A**   | Whether the progressbar should be a full circle or a semicircle.                                          | No        | `false`           | `boolean`         |
 | `clockwise`    | Whether the progressbar should rotate clockwise or counter-clockwise.                                     | No        | `true`            | `boolean`         |
-| `responsive`   | Whether the progressbar should fit inside its parent container. **Note** Turning this option on will override the specified radius in order to make the circle fit in its parent. The radius to stroke ratio won't change.                                     | No        | `false`            | `boolean`           |
+| `responsive`**N/A**   | Whether the progressbar should fit inside its parent container. **Note** Turning this option on will override the specified radius in order to make the circle fit in its parent. The radius to stroke ratio won't change.                                     | No        | `false`            | `boolean`           |
 | `rounded`      | Whether the current progress ending should be rounded or straight.                                        | No        | `false`           | `boolean`           |
 | `duration`     | The duration of the animation. Pass 0 for no animation.                                                   | No        | `800`             | `number`          |
 | `animationDelay` | Milliseconds to wait before starting an animation.                                                     | No         | `0`               | `number`          |
