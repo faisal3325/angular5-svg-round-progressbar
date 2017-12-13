@@ -4,6 +4,9 @@ Ionic/Angular module that uses SVG to create a circular progressbar with Angular
 ## Note
 `responsive` and `semicircle` option is not available in this versio because of some issues. Will fix that later or you may contirubte to this repo.
 
+### NPM
+https://www.npmjs.com/package/angular5-svg-round-progressbar
+
 ## Installation
 First you have to install the module through npm:
 
